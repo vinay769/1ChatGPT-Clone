@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "553280717366",
+    "project_id": "talkito1",
+    "storage_bucket": "talkito1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553280717366:android:1f693861471c5995740e97",
+        "android_client_info": {
+          "package_name": "com.example.talkito1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553280717366-q2bapsdmcgk22drcj2lmk807dredo89i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.talkito1",
+            "certificate_hash": "c6289123e722d9cf96c58ec940d18a5f16b553a4"
+          }
+        },
+        {
+          "client_id": "553280717366-ut92p88kceh36pit9pajuv5c7oh2asr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrgzYbr4yzK2iXWr7wmPc9OuVU9EdApw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553280717366-ut92p88kceh36pit9pajuv5c7oh2asr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
